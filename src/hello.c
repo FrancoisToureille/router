@@ -1,5 +1,6 @@
 #include "hello.h"
 #include "neighbors.h"
+#include "config.h"
 #include <stdio.h>
 #include <pthread.h>
 #include <unistd.h>
